@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_car_crashed","order":4,"path":"sprites/spr_car_crashed/spr_car_crashed.yy",},
+    {"name":"obj_car_crashed","order":3,"path":"objects/obj_car_crashed/obj_car_crashed.yy",},
+    {"name":"spr_car_down","order":3,"path":"sprites/spr_car_down/spr_car_down.yy",},
+    {"name":"sd_win","order":3,"path":"sounds/sd_win/sd_win.yy",},
+    {"name":"sd_honk","order":1,"path":"sounds/sd_honk/sd_honk.yy",},
+    {"name":"spr_car_parked","order":5,"path":"sprites/spr_car_parked/spr_car_parked.yy",},
+    {"name":"obj_parking_spot","order":2,"path":"objects/obj_parking_spot/obj_parking_spot.yy",},
+    {"name":"spr_parking_spot","order":6,"path":"sprites/spr_parking_spot/spr_parking_spot.yy",},
+    {"name":"sd_music","order":2,"path":"sounds/sd_music/sd_music.yy",},
+    {"name":"obj_car_parked","order":1,"path":"objects/obj_car_parked/obj_car_parked.yy",},
+    {"name":"spr_background","order":7,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_winscreen","order":8,"path":"sprites/spr_winscreen/spr_winscreen.yy",},
+    {"name":"room_winscreen","order":2,"path":"rooms/room_winscreen/room_winscreen.yy",},
+    {"name":"spr_car_left","order":1,"path":"sprites/spr_car_left/spr_car_left.yy",},
+    {"name":"spr_car_up","order":2,"path":"sprites/spr_car_up/spr_car_up.yy",},
+  ],
+}
